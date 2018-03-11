@@ -6,7 +6,13 @@ NTSC receiver and transmitter for 5 GHz drones
 ### Dependencies
 
 - GNU Radio v3.7.X. <br> See the [GNU Radio Wiki](http://gnuradio.org/redmine/projects/gnuradio/wiki/InstallingGR) for installation instructions.
-
+To use osmocom_source examples the following will be needed.
+Soapy sdr
+https://github.com/pothosware/SoapySDR/wiki/BuildGuide
+Soapyuhd
+https://github.com/pothosware/SoapyUHD/wiki#building-soapy-uhd
+gr-osmosdr
+https://github.com/osmocom/gr-osmosdr
 ### Installation
 
 ```
