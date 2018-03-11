@@ -4,12 +4,6 @@
 /* NTSC Video Signal levels, timings and lines according to the protocol.
 /* The states of signal (synchronisation, video, ...) are defined as code. */
 
-/*---------------------NTSC_CONFIGURATION.H -------------------*/
-/*
-/*      This header file defines the charecteristic values of
-/* NTSC Video Signal levels, timings and lines according to the protocol.
-/* The states of signal (synchronisation, video, ...) are defined as code. */
-
 
 
 /* -------------- PAL SIGNAL TIMING (in sec.) ----------------*/
