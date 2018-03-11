@@ -10,10 +10,13 @@ NTSC receiver and transmitter for 5 GHz drones
 To use osmocom_source examples with Limesdr mini the following will be needed.
 Soapy sdr
 https://github.com/pothosware/SoapySDR/wiki/BuildGuide
+
 Soapyuhd
 https://github.com/pothosware/SoapyUHD/wiki#building-soapy-uhd
+
 Limesuite
 https://github.com/myriadrf/LimeSuite
+
 gr-osmosdr
 https://github.com/osmocom/gr-osmosdr
 ### Installation
