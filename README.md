@@ -1,3 +1,5 @@
+#Fork to try and make it suitable for PAL
+
 # gr-ntsc-rc
 NTSC receiver and transmitter for 5 GHz drones
 
