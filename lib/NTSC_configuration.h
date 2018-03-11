@@ -15,7 +15,7 @@
 
 
 
-/* ------------------- NTSC SIGNAL LEVELS ---------------------*/
+/* ------------------- NTSC SIGNAL LEVELS, FIXME to pal ---------------------*/
 #define BLACK_LEVEL -0.02
 #define WHITE_LEVEL 0.06
 #define HORIZONTAL_SYNC_THRESHOLD -0.020
@@ -27,7 +27,7 @@
 
 
 
-/* -------------------- NTSC LINES FEATURES -------------------*/
+/* -------------------- NTSC LINES FEATURES , FIXME to pal -------------------*/
 #define NBR_VIDEO_LINES 240
 #define NBR_EQUALISING_LINES 3
 #define NBR_VERTICAL_SYNC_LINES 21
@@ -36,7 +36,7 @@
 
 
 
-/* -------------------- NTSC SIGNAL STATES -------------------*/
+/* -------------------- NTSC SIGNAL STATES , FIXME to pal -------------------*/
 #define IDLE 1
 #define LINES_TRANSMISSION 2
 #define FRONT_PORCH 3
