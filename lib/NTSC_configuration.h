@@ -28,7 +28,7 @@
 
 
 /* -------------------- NTSC LINES FEATURES , FIXME to pal -------------------*/
-#define NBR_VIDEO_LINES 240
+#define NBR_VIDEO_LINES 312.5
 #define NBR_EQUALISING_LINES 3
 #define NBR_VERTICAL_SYNC_LINES 21
 #define X_WIDTH 360
