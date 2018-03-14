@@ -15,9 +15,9 @@
 
 
 
-/* ------------------- NTSC SIGNAL LEVELS, FIXME to palBW test ---------------------*/
-#define BLACK_LEVEL 0.0
-#define WHITE_LEVEL 0.7
+/* ------------------- NTSC SIGNAL LEVELS, FIXME to pal ---------------------*/
+#define BLACK_LEVEL -0.02
+#define WHITE_LEVEL 0.06
 #define HORIZONTAL_SYNC_THRESHOLD -0.020
 #define HORIZONTAL_SYNC_LEVEL -0.04
 #define BACK_PORCH_LEVEL -0.015
