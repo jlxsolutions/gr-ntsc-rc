@@ -6,7 +6,7 @@
 
 
 
-/* -------------- PAL SIGNAL TIMING (in sec.) ----------------*/
+/* -------------- PAL SIGNAL TIMING (in sec.) (done) ----------------*/
 #define HORIZONTAL_SYNC_DURATION 4.7 * 0.000001
 #define BACK_PORCH_DURATION 5.7  * 0.000001
 #define VIDEO_DURATION 51.95  * 0.000001
